@@ -1,0 +1,14 @@
+.movie-btn {
+    background-color: aqua;
+}
+
+.movie-btn:hover {
+    background-color: rgb(56, 112, 112);
+    animation: flash;
+    animation-duration: 1s;
+}
+
+.col {
+    background-color: lightpink;
+    border: 2px solid black;
+}
