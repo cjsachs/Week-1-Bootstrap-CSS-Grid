@@ -9,5 +9,3 @@
 
 3. Bootstrap Grid System
 -- Grid Visual
-
-4. animate.css docs
